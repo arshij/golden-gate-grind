@@ -7,13 +7,15 @@
 //
 
 import UIKit
+import SquareReaderSDK
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        
+        SQRDReaderSDK.initialize(applicationLaunchOptions: launchOptions)
+        
         // Override point for customization after application launch.
         return true
     }

@@ -1,0 +1,132 @@
+[
+    {
+        "id": "19722DEF-3E6B-4713-89CC-83B2DD28E623",
+        "name": "Espresso",
+		"items": [
+            {
+                "id": "F9278A53-6BF6-4754-82FC-756CE18866F1",
+                "name": "Cappuccino",
+                "price": 5,
+                "restrictions": [],
+                "description": "Our cappuccino is made in the modern style, balancing our full-bodied espresso with velvety steamed milk--not the stiff foam cap of yore. In specialty coffee circles this newer style is sometimes called a 'flat white.' But we consider it the new cappuccino standard.\n\nCalories: 45-140"
+            },
+            {
+                "id": "E391EF90-1AC3-47A2-857E-33E653467ECA",
+                "name": "Caffè Latte",
+                "price": 5,
+                "restrictions": [],
+                "description": "One of our most popular drinks, our latte turns our assertive, chocolatey Hayes Valley Espresso velvety-sweet with a long pour of densely steamed milk.\n\nCalories: 100-230"
+            },
+            {
+                "id": "D9D8A38B-E5E7-4DDF-A7ED-A961CD1CC8E0",
+                "name": "Gibraltar",
+                "price": 4,
+                "restrictions": ["★"],
+                "description": "A Golden Gate Grind original, our Gibraltar is named for the beveled glass in which it's served. An espresso topped off with steamed milk, our version of a Spanish cortado is built for immediate quaffing.\n\nCalories: 40-80"
+            },
+            {
+                "id": "F860BA4B-9150-4597-8632-A8B7B1D3FC76",
+                "name": "Caffè Mocha",
+                "price": 6,
+                "restrictions": [],
+                "description": "The tradition of combining coffee, chocolate, and milk or cream dates back to eighteenth-century Turn's Caffè al Bicerin. We source our chocolate from local purveyors, a different one in each city.\n\nCalories: 210-360"
+            },
+            {
+                "id": "E409D9E8-4072-482F-9177-C79AC281210C",
+                "name": "Shakerato",
+                "price": 7,
+                "restrictions": ["★"],
+                "description": "A spin on a classic Italian iced-coffee treat, our seasonal shakerato contains espresso and milk lightly sweetened with cane sugar, hand-shaken over ice until chilled and frothy.\n\nCalories: 60-160"
+            },
+            {
+                "id": "0DF3D521-6BE8-433C-A1D3-403E0D87836A",
+                "name": "Americano",
+                "price": 3,
+                "restrictions": [],
+                "description": "Similar in strength to a pour over, our Americano also boasts the rich flavor of our bold, ristretto-style espresso.\n\nCalories: 0-70"
+            },
+            {
+                "id": "B69DC94C-185B-4578-8A15-E72158145657",
+                "name": "Iced Americano",
+                "price": 3,
+                "restrictions": [],
+                "description": "Our iced Americano is espresso pulled over cold water, served over ice.\n\nCalories: 0"
+            },
+            {
+                "id": "CB166602-A9E6-4E8E-87DD-1DDD9CA7749E",
+                "name": "Iced Caffè Latte",
+                "price": 5,
+                "restrictions": [],
+                "description": "A chilled classic for a hot (or any) day: Our Hayes Valley Espresso pulled into your choice of milk, served over ice.\n\nCalories: 60-110"
+            },
+            {
+                "id": "137CB024-DB30-4D92-99D1-C8FAE8272021",
+                "name": "Iced Caffè Mocha",
+                "price": 6,
+                "restrictions": [],
+                "description": "We source our chocolate from a local purveyor, so our ganaches are unique to their neighborhoods. It's just right for those mornings--and afternoons--when you need a slightly sweet lift.\n\nCalories: 260-310"
+            }
+		]
+	},
+    {
+        "id": "18EC0E6D-95E3-4B6C-BB19-9DEC46000EEF",
+        "name": "Pour Over",
+        "items": [
+            {
+                "id": "71880201-2E54-4B34-8789-CC50BC492A05",
+                "name": "Bella Donovan",
+                "price": 4,
+                "restrictions": ["★"],
+                "description": "Cozy and enveloping, Bella Donovan is our take on the archetypal Moka-Java blend, combining a fruited natural Ethiopian coffee with heftier coffees from Sumatra and Peru. Elegant served black, it's also pure comfort with milk or cream.\n\nCalories: 0"
+            },
+            {
+                "id": "B4DDC8B6-00D8-45C0-A645-76F0FC48D504",
+                "name": "Rwanda Nyanza Iwacu",
+                "price": 6,
+                "restrictions": [],
+                "description": "The best coffees from Rwanda, like this one, have the perfect balance of gentle acidity, apricot-like fruit intensity, and herbal complexity.\n\nCalories: 0"
+            },
+            {
+                "id": "AC9EB83B-223A-46DC-8357-02B808A0408C",
+                "name": "Café Au Lait",
+                "price": 5,
+                "restrictions": [],
+                "description": "Our café au lait adds milky richness to any pour over or batch brew. Choose your coffee and we'll finish it off with steamed milk, be it dairy or non-dairy.\n\nCalories: 40-70"
+            }
+        ]
+    },
+    {
+        "id": "F2F26728-FC09-4CAB-AE0D-BF570BCD94A4",
+        "name": "Tea and More",
+        "items": [
+            {
+                "id": "90373EB6-2D0B-4605-A472-B6560EF7C470",
+                "name": "Black Tea",
+                "price": 4,
+                "restrictions": [],
+                "description": "This full-bodied black tea blend pairs well with milk and sugar, and is balanced enough to enjoy on its own. Sourced from the Paralai Estate in southern India, it's certified organic and Fair Trade, grown within a wildlife sanctuary on a slope known locally as 'Elephants Hill.'\n\nCalories: 0-70"
+            },
+            {
+                "id": "9BFA7F79-20F8-4AC6-A2AC-CDF475215A0C",
+                "name": "Matcha Latte",
+                "price": 5,
+                "restrictions": ["★"],
+                "description": "Made with matcha tea from the Uji tea fields in Kyoto prefecture, this umami-rich, bright green tea is lightly sweetened and served with your choice of steamed milk.\n\nCalories: 50-210"
+            },
+            {
+                "id": "2B683E08-4AA5-4FFF-921E-04DA6FEDF502",
+                "name": "Herbal Tea",
+                "price": 4,
+                "restrictions": [],
+                "description": "Reminiscent of the best mint teas, this is far more interesting, combining spearment, peppermint, lavender, and sage with bright lemongrass and orange peel.\n\nCalories: 0-70"
+            },
+            {
+                "id": "72A56A65-EB07-4AAE-9E98-3DC35B19D7CD",
+                "name": "Hot Chocolate",
+                "price": 5,
+                "restrictions": [],
+                "description": "Sweet and creamy dreaminess with a base of fresh milk (non-dairy alternatives are also available).\n\nCalories: 280-490"
+            }
+        ]
+    }
+]
